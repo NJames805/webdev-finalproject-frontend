@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/webdev-final-project/static/css/main.1dfaee75.chunk.css",
+    "main.js": "/webdev-final-project/static/js/main.da96beac.chunk.js",
+    "main.js.map": "/webdev-final-project/static/js/main.da96beac.chunk.js.map",
+    "runtime-main.js": "/webdev-final-project/static/js/runtime-main.d16308dc.js",
+    "runtime-main.js.map": "/webdev-final-project/static/js/runtime-main.d16308dc.js.map",
+    "static/js/2.3ca6a43e.chunk.js": "/webdev-final-project/static/js/2.3ca6a43e.chunk.js",
+    "static/js/2.3ca6a43e.chunk.js.map": "/webdev-final-project/static/js/2.3ca6a43e.chunk.js.map",
+    "static/js/3.d80ec6ad.chunk.js": "/webdev-final-project/static/js/3.d80ec6ad.chunk.js",
+    "static/js/3.d80ec6ad.chunk.js.map": "/webdev-final-project/static/js/3.d80ec6ad.chunk.js.map",
+    "index.html": "/webdev-final-project/index.html",
+    "precache-manifest.b3c22f78fd14d7bc615fae4fd3782695.js": "/webdev-final-project/precache-manifest.b3c22f78fd14d7bc615fae4fd3782695.js",
+    "service-worker.js": "/webdev-final-project/service-worker.js",
+    "static/css/main.1dfaee75.chunk.css.map": "/webdev-final-project/static/css/main.1dfaee75.chunk.css.map",
+    "static/js/2.3ca6a43e.chunk.js.LICENSE.txt": "/webdev-final-project/static/js/2.3ca6a43e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d16308dc.js",
+    "static/js/2.3ca6a43e.chunk.js",
+    "static/css/main.1dfaee75.chunk.css",
+    "static/js/main.da96beac.chunk.js"
+  ]
+}
